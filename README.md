@@ -13,14 +13,6 @@ A command-line interface (CLI) tool for randomly selecting students from a class
 * Session duration tracking
 * Real-time statistics
 
-### Display Elements
-* Decorated title banner
-* Student selection display box
-* Recent picks history (last 5)
-* Current session statistics
-* Clear user instructions
-* Session duration timer
-
 ## 🚀 Installation
 
 1. Clone the repository:
