@@ -56,9 +56,9 @@ python picker.py
 Create a CSV file named `students.csv` with this structure:
 
 ```csv
-Name,LastPicked,PickOrder
-John Doe,,
-Jane Smith,,
+Name
+John Doe
+Jane Smith
 ```
 
 ### Column Descriptions:
