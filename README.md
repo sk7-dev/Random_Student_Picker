@@ -2,16 +2,6 @@
 
 A command-line interface (CLI) tool for randomly selecting students from a class list with persistent tracking and undo functionality. Built using Python with curses for the terminal user interface.
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Format](#file-format)
-- [Controls](#controls)
-- [Technical Details](#technical-details)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## ✨ Features
 
 ### Core Functionality
