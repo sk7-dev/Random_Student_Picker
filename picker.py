@@ -2,7 +2,7 @@ import pandas as pd
 import random
 import curses
 from datetime import datetime
-import copy
+#import copy
 
 def load_students(filename):
     """Load student data from CSV file and return DataFrame."""
