@@ -1,10 +1,10 @@
-Name
-Jon Snow
-Arya Stark
-Sansa Stark
-Bran Stark
-Rikon Stark
-Rob Stark
-Tyrion Lannister
-Tywin Lannister
-Jaime Lannister
+Name,LastPicked,PickOrder
+Jon Snow,2025-02-08 23:08:13,3
+Arya Stark,2025-02-08 23:08:13,2
+Sansa Stark,,
+Bran Stark,2025-02-08 23:08:11,1
+Rikon Stark,,
+Rob Stark,,
+Tyrion Lannister,,
+Tywin Lannister,,
+Jaime Lannister,2025-02-08 23:08:14,4
